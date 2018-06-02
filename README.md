@@ -6,13 +6,13 @@ NAME: Cheema Danish Asghar
 EMAIL: danishasghar.cheema@studenti.unitn.it  
 
 Client Code Done by:  
-NAME:   
-EMAIL:  
+NAME: Main Muhammad Faheem Jan 
+EMAIL: faheemjan500@gmail.com
 
 Server heroku ULR: http://introsde-asgn3-server.herokuapp.com/ws/people?wsdl  
 Server Git ripo: https://github.com/danishc/introsde-2017-assignment-3-server  
 
-Client Git riop:  
+Client Git riop: https://github.com/faheemjan5000/introsde-2017-assignment-3-client  
 
 
 ## Project Requirements:  
