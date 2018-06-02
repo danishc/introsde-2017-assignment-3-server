@@ -6,7 +6,7 @@ NAME: Cheema Danish Asghar
 EMAIL: danishasghar.cheema@studenti.unitn.it  
 
 Client Code Done by:  
-NAME: Main Muhammad Faheem Jan 
+NAME: Main Muhammad Faheem Jan  
 EMAIL: faheemjan500@gmail.com
 
 Server heroku ULR: http://introsde-asgn3-server.herokuapp.com/ws/people?wsdl  
